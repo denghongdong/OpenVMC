@@ -14,12 +14,19 @@
 ![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%872.png)
 #3.软硬件环境
 1、集群环境推荐使用Windows 2008 server 64bit
+
 2、所有节点安装独立的符合要求的操作系统（64位）
+
 3、正确配置网络环境,所有节点可以正常Ping通（多个节时）。
+
 4、所有节点需要安装hadoop/hive。
+
 5、所有节点需要安装python2.x。
+
 6、操作节点需要安装Redhadoop Studio0.3。
+
 7、配合hive mysql 元数据存储。
+
 8、系统建议200G以上空闲磁盘空间
 
 #4.安装
