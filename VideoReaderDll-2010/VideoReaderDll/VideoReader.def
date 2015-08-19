@@ -1,0 +1,9 @@
+LIBRARY	"VideoReaderDll"
+
+
+DESCRIPTION 'message Windows Dynamic Link Library'
+
+EXPORTS
+
+    ; Explicit exports can go here
+Java_com_seasbase_video_io_VideoReader_DiffProc
