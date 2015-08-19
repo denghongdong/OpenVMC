@@ -32,7 +32,7 @@
 ![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%875.png)
 
 #8.视频处理、启动python脚本
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%876.png)
 #9.准实时视频检索、Redhadoop studio 视频检索
 
 图4-20 车辆检索结果（红色车）
