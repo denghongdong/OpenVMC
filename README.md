@@ -8,9 +8,9 @@
       视频处理基于分布式计算平台
       
 #1.整体架构
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%871.png)
 #2.功能图
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%872.png)
 #3.软硬件环境
 1、集群环境推荐使用Windows 2008 server 64bit
 2、所有节点安装独立的符合要求的操作系统（64位）
@@ -25,15 +25,16 @@
 软件主模块无需安装，将seasbase.jar和 videoReaderdll.dll分别拷贝到hadoop安装目录下的./share/yarn和./bin
 
 #5.摄像头管理及摄像头管理主界面
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%873.png)
 #6.摄像头参数修改
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%874.png)
 #7.视频接入、启动视频录制
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%875.png)
 
 #8.视频处理、启动python脚本
 
 #9.准实时视频检索、Redhadoop studio 视频检索
 
 图4-20 车辆检索结果（红色车）
-
+![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%877.png)
 
