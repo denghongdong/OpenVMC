@@ -1,6 +1,7 @@
 # OpenVMC
       《红象云腾开放视频大数据管理平台V1.0使用文档》
 
+
 #OpenVMC
 1〉 支持以离线或准实时方式生成视频图像目标物的特征索引
 
@@ -45,4 +46,7 @@
 
 图4-20 车辆检索结果（红色车）
 ![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%877.png)
+
+#下载地址
+http://pan.baidu.com/s/1kTL3OGn#path=%252FRedHadoopEnterpriseCRH3
 
