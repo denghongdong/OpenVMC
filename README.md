@@ -48,6 +48,7 @@
 ![](https://raw.githubusercontent.com/ChinaOpenVideo/OpenVMC/master/img/%E5%9B%BE%E7%89%877.png)
 
 #下载地址
-RedHadoop-OpenVMC(Vehicle)-Setup20150205.exe 
+RedHadoop-OpenVMC(Vehicle)-Setup20150205.exe
+
 http://pan.baidu.com/s/1kTL3OGn#path=%252FRedHadoopEnterpriseCRH3
 
